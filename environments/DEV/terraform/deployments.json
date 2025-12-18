@@ -1,0 +1,6 @@
+{"deployments": {"value": {
+  "app-service-18-dec": {
+    "webapp_name": "app-app-service-18-dec",
+    "deployed_service": "azure-app-18-dec"
+  }
+}}}
